@@ -1,0 +1,11 @@
+{
+	"name": "@luna/star-ratings",
+	"description": "Rate your music out of 5 stars (interactive) - TidaLuna port of spicetify-star-ratings",
+	"author": {
+		"name": "Victor",
+		"url": "https://github.com/FlazeIGuess"
+	},
+	"main": "./src/index.ts",
+	"type": "module",
+	"tags": ["star", "rating", "interactive"]
+}
