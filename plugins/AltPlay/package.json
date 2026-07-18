@@ -1,5 +1,5 @@
 {
-	"name": "@luna/altplay",
+	"name": "@flazeiguess/altplay",
 	"version": "0.1.0-beta",
 	"description": "[BETA] Play tracks from your own media servers (Jellyfin, ...) instead of TIDAL when available. Early beta - expect rough edges.",
 	"author": {
