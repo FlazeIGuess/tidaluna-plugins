@@ -1,6 +1,6 @@
 {
-	"name": "tidalluna-plugins",
-	"description": "Flaze's TidaLuna plugins",
+	"name": "Flaze's TidaLuna Plugins",
+	"description": "Playback and quality-of-life plugins for the TIDAL desktop app",
 	"type": "module",
 	"scripts": {
 		"watch": "concurrently \"pnpm:build --watch\" pnpm:serve",
