@@ -13,6 +13,8 @@ plugin. Got a higher-quality rip, a version TIDAL removed, or something that was
 TIDAL at all? AltPlay finds it in your library and plays it, while TIDAL's UI keeps
 working as usual.
 
+![The AltPlay library page](../../assets/altplay/library.png)
+
 ## What it does
 
 > All of the below is **beta** and may not work perfectly in every case.
@@ -41,6 +43,22 @@ working as usual.
   AltPlay section.
 - **Jellyfin sign-in** - connect with **Quick Connect** (no password needed) or the
   classic username and password.
+
+## In action
+
+**Same song, better quality.** Without AltPlay, TIDAL streams this track at 96 kbps:
+
+![Without AltPlay - TIDAL streams 96 kbps](../../assets/altplay/without-altplay.png)
+
+With AltPlay, the lossless file from your Jellyfin library plays instead - shown by the
+jellyfish badge and its quality (16-bit 44.1kHz):
+
+![With AltPlay - lossless from Jellyfin](../../assets/altplay/with-altplay.png)
+
+**Your library in TIDAL's search.** Matches from your server appear in their own AltPlay
+section at the top of the suggestions:
+
+![AltPlay results in TIDAL's search](../../assets/altplay/search.png)
 
 ## Installation
 

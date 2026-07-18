@@ -42,6 +42,8 @@ TIDAL whenever a matching file exists in your library. Higher-quality rips, vers
 removed, or songs that were never on TIDAL - AltPlay finds them in your library and plays
 them while TIDAL's UI keeps working.
 
+![The AltPlay library page](assets/altplay/library.png)
+
 - Automatic, quality-aware replacement with TIDAL kept in sync.
 - Native mode for songs that exist on both TIDAL and your server (real artist/album pages,
   full-screen, lyrics, credits - only the audio comes from Jellyfin).
