@@ -1,6 +1,6 @@
 {
 	"name": "tidalluna-plugins",
-	"description": "Victor's TidaLuna plugins",
+	"description": "Flaze's TidaLuna plugins",
 	"type": "module",
 	"scripts": {
 		"watch": "concurrently \"pnpm:build --watch\" pnpm:serve",

@@ -1,4 +1,4 @@
-# Victor's TidaLuna plugins
+# Flaze's TidaLuna plugins
 
 A small collection of plugins for [TIDAL](https://tidal.com), built on
 [TidaLuna](https://github.com/Inrixia/TidaLuna).
