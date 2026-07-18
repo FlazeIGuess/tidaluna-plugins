@@ -1,6 +1,6 @@
 # AltPlay for TIDAL
 
-> ## ⚠️ BETA - work in progress
+> ## BETA - work in progress
 >
 > AltPlay is in an **early beta phase**. It works, but expect rough edges, occasional
 > glitches after TIDAL updates, and features that may still change or break. Use it at

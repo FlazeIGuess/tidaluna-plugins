@@ -102,7 +102,7 @@ export const Settings = () => {
 					lineHeight: "1.45",
 				}}
 			>
-				<strong style={{ color: "var(--altplay-gold, #ffcf5c)" }}>⚠️ AltPlay is in BETA.</strong> It works, but
+				<strong style={{ color: "var(--altplay-gold, #ffcf5c)" }}>AltPlay is in BETA.</strong> It works, but
 				expect rough edges and the occasional glitch after TIDAL updates. Please don't rely on it as your only way
 				to play music, and report anything that misbehaves.
 			</div>

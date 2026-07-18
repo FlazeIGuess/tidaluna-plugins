@@ -5,7 +5,7 @@ A small collection of plugins for [TIDAL](https://tidal.com), built on
 
 ## Plugins
 
-### ⭐ Star Ratings
+### Star Ratings
 
 An interactive 5-star rating system - rate any track straight from the now-playing bar or
 a track list. A TidaLuna port of [spicetify-star-ratings](https://github.com/brimell/spicetify-star-ratings),
@@ -31,9 +31,9 @@ adapted and extended for TIDAL.
 - **Play filters** - auto-skip tracks below a threshold, or only play rated / unrated
   tracks.
 
-### 🪼 AltPlay - **BETA**
+### AltPlay - **BETA**
 
-> ⚠️ **AltPlay is in an early beta phase.** It works, but expect rough edges and the
+> **AltPlay is in an early beta phase.** It works, but expect rough edges and the
 > occasional glitch after TIDAL updates. See [its README](plugins/AltPlay/README.md) for
 > the full beta notice and known limitations.
 
