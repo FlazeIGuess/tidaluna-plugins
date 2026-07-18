@@ -1,0 +1,12 @@
+{
+	"name": "@luna/altplay",
+	"version": "0.1.0-beta",
+	"description": "[BETA] Play tracks from your own media servers (Jellyfin, ...) instead of TIDAL when available. Early beta - expect rough edges.",
+	"author": {
+		"name": "Victor",
+		"url": "https://github.com/FlazeIGuess"
+	},
+	"main": "./src/index.ts",
+	"type": "module",
+	"tags": ["jellyfin", "playback", "selfhosted", "sync", "beta"]
+}
